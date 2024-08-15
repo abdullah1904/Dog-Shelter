@@ -1,7 +1,5 @@
 # Dog-Shelter
 
-'''shell
-
+```shell
 pip install -r requirements.txt
-
-'''
+```
